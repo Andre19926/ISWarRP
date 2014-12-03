@@ -1,0 +1,7 @@
+"militaryrp"
+{
+	"base"		"nutscript"
+	"title"		"IS WarRP"
+	"author"	"Andre19926"
+	"menusystem" "1"
+}
